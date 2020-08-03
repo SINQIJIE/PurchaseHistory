@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Booking/Purchase History</string>
+    <string name="type_service">Product or Service</string>
+    <string name="date">Date</string>
+    <string name="no">No.</string>
+    <string name="purchase_or_services_history">Payment History</string>
+    <string name="no_1">1</string>
+    <string name="date_pur">15Jun2020</string>
+    <string name="detail">Product</string>
+    <string name="view">More Info</string>
+    <string name="price">Price(RM)</string>
+    <string name="rm">15.00</string>
+    <string name="no_2">no_2</string>
+    <string name="_2">2</string>
+    <string name="_20jun2020">20Jun2020</string>
+    <string name="service">Service</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
